@@ -1,5 +1,5 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.DataLeadsPRO/website-change-monitor",
   "description": "Track page and price changes over time: diffs, history, and alerts through simple tracking endpoints.",
   "version": "1.0.0",
