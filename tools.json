@@ -1,0 +1,32 @@
+[
+  {
+    "name": "diff",
+    "method": "POST",
+    "path": "/diff",
+    "description": "V1 Diff"
+  },
+  {
+    "name": "track_register",
+    "method": "POST",
+    "path": "/track/register",
+    "description": "V1 Track Register"
+  },
+  {
+    "name": "track_check",
+    "method": "POST",
+    "path": "/track/check",
+    "description": "V1 Track Check"
+  },
+  {
+    "name": "track_history",
+    "method": "POST",
+    "path": "/track/history",
+    "description": "V1 Track History"
+  },
+  {
+    "name": "price_track",
+    "method": "POST",
+    "path": "/price/track",
+    "description": "V1 Price Track"
+  }
+]
